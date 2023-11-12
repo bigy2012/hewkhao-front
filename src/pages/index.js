@@ -8,11 +8,6 @@ import Slider from './components/slider'
 import Header from './components/header'
 
 export default function Home() {
-
-  const imageLoader = () => {
-    return
-  }
-
   return (
     <main>
       <Header />
